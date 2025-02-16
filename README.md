@@ -159,7 +159,7 @@ bq mk --table MEU_PROJETO:asteroids_dataset.asteroids_table \
 7. <br> <img src="https://github.com/user-attachments/assets/bea3aa91-9fa4-406f-a620-c6bcfc2dd5a6" width="900"/> <br> <br>
 
 
-### Visão Dialog Flox CX <br>
+### Visão DialogFlowCX <br>
 
 1. <br> <img src="https://github.com/user-attachments/assets/ce9331ec-69eb-4ac3-a582-a4d5fec4239f" width="900"/> <br> <br>
 
